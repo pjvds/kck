@@ -1,0 +1,29 @@
+.body1{ background:#6b6c5f; height:44px; z-index:2; position:relative;}
+.main { width:1025px; margin:0 auto; position:relative; z-index:2}
+.main2{ margin-left:205px; padding-bottom:102px}
+#header {width:100%; overflow:hidden; height:auto; padding-top:108px}
+#content{width:100%; overflow:hidden; background:#f0f0f0;}
+#footer {width:100%; overflow:hidden;}
+
+.wrapper {width:100%; overflow:hidden;}
+
+.left{ float:left;}
+.right{ float:right}
+
+.col1{ width:333px; float:left;}
+.cols{ width:221px; float:left;}
+
+/* ============================= page1 ===========================*/
+#page1 .body1{ position:absolute; bottom:0; height:44px; z-index:2; width:100%;}
+html, #page1, #page1 .main{ height:100%}
+.middle1{ position:absolute; left:50%; top:50%; margin-left:-512px; margin-top:-120px; width:1025px}
+#page1 #header{ padding:0}
+/* ============================= page2 ===========================*/
+#page2 .button:hover{ background:#ffc000}
+/* ============================= page3 ===========================*/
+#page3 .button:hover{ background:#d3b04f}
+/* ============================= page4 ===========================*/
+#page4 .button:hover{ background:#a3a865}
+/* ============================= page5 ===========================*/
+#page5 .button:hover{ background:#81835f}
+/* ============================= page6 ===========================*/
