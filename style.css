@@ -63,7 +63,11 @@ img{ vertical-align:top}
 
 .color1{ color:#6b6c5f}
 
-.checklist li { list-style:check }
+.checklist li { 
+    list-style-type:disc;
+    margin: 1px;
+    padding: 1px;
+}
 
 .list1 a{ padding-left:6px; background:url(images/marker_1.gif)  0 5px no-repeat}
 
