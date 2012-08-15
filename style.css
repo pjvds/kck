@@ -65,8 +65,7 @@ img{ vertical-align:top}
 
 .checklist li { 
     list-style-type:disc;
-    margin: 1px;
-    padding: 1px;
+    margin: 16px;
 }
 
 .list1 a{ padding-left:6px; background:url(images/marker_1.gif)  0 5px no-repeat}
