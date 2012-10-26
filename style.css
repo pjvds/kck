@@ -111,3 +111,10 @@ img{ vertical-align:top}
 	padding: 0;
 	list-style: none;
 }
+
+/*==========================================*/
+callnow {
+    font-height: 22px;
+    color: white;
+    font-weight: bold;
+}
